@@ -1,2 +1,2 @@
-# blogs
-ブログの下書き
+# KUMOKOTSU Project
+イイダリョウの各種プロジェクトについて
