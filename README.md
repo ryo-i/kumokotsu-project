@@ -3,9 +3,6 @@
 
 # これから作りたいもの
 
-<details>
-  <summary>開く</summary>
-
 * 横山光輝三国志DB
 * 島耕作DB
 * イージングジェネレーター（GSAP）
@@ -50,5 +47,3 @@
 * 文字と音を変換して組み合わせたコンテンツ
 * 色と音を変換して組み合わせたコンテンツ 
 * お絵かきボード（中断）: [コード](https://github.com/ryo-i/oekaki-bord) / [プレビュー](https://oekaki-bord.vercel.app)
-
-</details>
