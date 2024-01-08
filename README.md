@@ -6,6 +6,8 @@
 
 # これから作りたいもの・やりたいこと
 
+- T3-Turbo
+* Turborepoを理解
 * T3 Stackを理解
 * tailwindでお絵描き
 * three.jsでボーンアニメ
