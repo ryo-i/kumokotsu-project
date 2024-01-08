@@ -6,6 +6,10 @@
 
 # これから作りたいもの・やりたいこと
 
+* three.jsでボーンアニメ
+* three.jsでボヨンと弾力性のある動き
+* pixiJsで2Dゲーム（Phaserも？）
+* playCanvasでゲームを作る？
 * オブジェクト指向の理解
 * unityでゲーム作る？
 * AIのコーディング補助ツール理解（copilot、cursorなど）
@@ -30,7 +34,7 @@
 * BFFとNodeバックエンドのできることの違いの理解
 * Node環境のORM（Prisma）の理解
 * Redisでできること理解
-* NextJSのバックエンド環境
+* NestJSのバックエンド環境
 * Herokuに変わる無料のバックエンド環境
 * Nuxtスターターキット
 * Vueスターターキット
