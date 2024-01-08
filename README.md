@@ -6,6 +6,7 @@
 
 # これから作りたいもの・やりたいこと
 
+* tailwindでお絵描き
 * three.jsでボーンアニメ
 * three.jsでボヨンと弾力性のある動き
 * pixiJsで2Dゲーム（Phaserも？）
