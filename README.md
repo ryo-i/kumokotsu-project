@@ -6,9 +6,9 @@
 
 # これから作りたいもの・やりたいこと
 
-- T3-Turbo
-* Turborepoを理解
-* T3 Stackを理解
+- T3-Turboを理解
+- Turborepoを理解
+- T3 Stackを理解
 * tailwindでお絵描き
 * three.jsでボーンアニメ
 * three.jsでボヨンと弾力性のある動き
