@@ -9,6 +9,7 @@
 - docker, linux, コンテナ
 - aws
 - terraform
+- paizaプログラミングテスト
 - OSS活動
 - インフラ、クラウド知識
 - processingシンセ
