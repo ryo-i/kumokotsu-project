@@ -6,6 +6,9 @@
 
 # これから作りたいもの・やりたいこと
 
+- docker, linux, コンテナ
+- aws
+- terraform
 - OSS活動
 - インフラ、クラウド知識
 - processingシンセ
