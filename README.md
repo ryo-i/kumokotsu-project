@@ -6,6 +6,7 @@
 
 # これから作りたいもの・やりたいこと
 
+- chromium, v8などの理解
 - docker, linux, コンテナ
 - aws
 - terraform
