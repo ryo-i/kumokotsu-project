@@ -5,7 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
-
+- MVCの理解
 - hono
 - テスト（E2E）
 - GitHub Actions(CI/CD)
