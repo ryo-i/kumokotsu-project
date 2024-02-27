@@ -6,6 +6,7 @@
 
 # これから作りたいもの・やりたいこと
 
+- hono
 - テスト（E2E）
 - GitHub Actions(CI/CD)
 - ドメイン駆動開発（DDD）
