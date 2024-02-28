@@ -5,6 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- n+1問題
 - MVCの理解
 - hono
 - テスト（E2E）
