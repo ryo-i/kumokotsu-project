@@ -5,6 +5,10 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- rails orm active record
+- rails turbo,stimulus
+- rails ere
+- yaml
 - n+1問題
 - MVCの理解
 - hono
