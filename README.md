@@ -75,7 +75,7 @@
 * Node環境のORM（Prisma）の理解
 * Redisでできること理解
 * NestJSのバックエンド環境
-* Herokuに変わる無料のバックエンド環境
+* Herokuに変わる無料のバックエンド環境→render?
 * Nuxtスターターキット
 * Vueスターターキット
 * 3Dルービックキューブ
