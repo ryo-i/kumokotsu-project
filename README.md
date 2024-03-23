@@ -5,6 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- テスト駆動開発（TDD）
 - ai機械学習
 - devops、mlopsなど
 - rails orm active record
