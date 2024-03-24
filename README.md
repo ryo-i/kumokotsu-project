@@ -5,6 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- GitHub Codespaces（クラウド環境での開発）
 - テスト駆動開発（TDD）
 - ai機械学習
 - devops、mlopsなど
