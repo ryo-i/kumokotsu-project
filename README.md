@@ -5,6 +5,8 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- github→はてなブログにデプロイ
+- ブログ駆動開発（BDD）
 - Go言語
 - Javd
 - GitHub Codespaces（クラウド環境での開発）
