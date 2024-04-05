@@ -5,6 +5,8 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- Go言語
+- Javd
 - GitHub Codespaces（クラウド環境での開発）
 - テスト駆動開発（TDD）
 - ai機械学習
