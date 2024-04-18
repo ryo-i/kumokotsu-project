@@ -22,7 +22,7 @@
 - hono
 - テスト（E2E）
 - GitHub Actions(CI/CD)
-- ドメイン駆動開発（DDD）
+- ドメイン駆動開発（DDD）の理解
 - クリーンアーキテクチャの理解
 - chromium, v8などの理解
 - docker, linux, コンテナ
