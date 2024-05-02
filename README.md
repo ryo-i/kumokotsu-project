@@ -5,6 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- デルタル盆栽
 - Supabase
 - github→はてなブログにデプロイ
 - ブログ駆動開発（BDD）
