@@ -57,7 +57,7 @@
 * tailwindでお絵描き
 * three.jsでボーンアニメ
 * three.jsでボヨンと弾力性のある動き
-* pixiJsで2Dゲーム（Phaserも？）
+* pixiJsで2Dゲーム
 * playCanvasでゲームを作る？
 * オブジェクト指向の理解
 * unityでゲーム作る？
