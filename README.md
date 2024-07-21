@@ -5,7 +5,13 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- spring boot
+- Java
 - Phaserによる2Dゲーム
+- アルゴリズム
+- アジャイル開発
+- PMBOK
+- ソフトウエア設計
 - デルタル盆栽
 - Supabase
 - github→はてなブログにデプロイ
@@ -16,8 +22,8 @@
 - テスト駆動開発（TDD）
 - ai機械学習
 - devops、mlopsなど
-- rails orm active record
-- rails turbo,stimulus
+- rails APIモード
+- rails hotwireによるSPA
 - rails ere
 - yaml
 - n+1問題
