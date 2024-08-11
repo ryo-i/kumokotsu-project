@@ -5,6 +5,8 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+
+- viteの導入
 - spring boot
 - Java
 - Phaserによる2Dゲーム
@@ -41,6 +43,7 @@
 - OSS活動
 - インフラ、クラウド知識
 - processingシンセ
+- processing(Java)
 - Unityオーディオ（シンセ）
 - Unity（C#）
 - 波紋
