@@ -5,6 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
+- ビヘイビア駆動開発（BDD）
 - ゼロランタイムCSS（PandaCSSとか）
 - overcommit
 - rubocop
