@@ -5,7 +5,9 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
-
+- overcommit
+- rubocop
+- rspec
 - アクセシビリティの理解
 - viteの導入
 - spring boot
