@@ -5,7 +5,7 @@
 * [こちら](https://github.com/ryo-i)
 
 # これから作りたいもの・やりたいこと
-- ゼロランタイムCSS
+- ゼロランタイムCSS（PandaCSSとか）
 - overcommit
 - rubocop
 - rspec
